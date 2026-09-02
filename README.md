@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/astral-bloom-logo.svg" alt="Astral Bloom logo" width="760">
+</p>
+
 # Astral Bloom
 
 **Celestial bouquets for Warsaw nights.**
